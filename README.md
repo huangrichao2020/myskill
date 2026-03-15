@@ -6,6 +6,7 @@
 
 | 技能 | 说明 | 状态 |
 |------|------|------|
+| [🌐 Agent-Reach](skills/agent_reach) | AI Agent 互联网访问能力，16+ 平台搜索阅读 | ✅ 已安装 |
 | [📊 A 股监控](skills/stock_monitor) | A 股龙头股异动监控，飞书实时推送 | ✅ 可用 |
 
 ## 🎯 使用方式
